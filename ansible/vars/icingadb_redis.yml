@@ -1,2 +1,3 @@
 ---
 icingadb_redis_password: redis-pass
+icingadb_redis_logfile: ""
