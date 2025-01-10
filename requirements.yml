@@ -3,6 +3,9 @@ roles:
   - name: geerlingguy.mysql
 
 collections:
+  - name: community.mysql
+  - name: community.general
+  - name: ansible.posix
   - name: icinga.icinga
   - name: tbauriedel.gographite
   - name: tbauriedel.influxdb2
